@@ -9,7 +9,7 @@ import java.util.List;
 
 
 /**
- * @author andreas.thaler
+ * @author andreas.thalersss
  * 
  */
 public interface TeamDao
